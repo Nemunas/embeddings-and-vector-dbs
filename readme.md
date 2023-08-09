@@ -1,5 +1,7 @@
-Leaderboards:
-https://github.com/FlagOpen/FlagEmbedding/tree/master/C_MTEB#leaderboard
+# Leaderboards & Models
 
-Models:
-https://github.com/FlagOpen/FlagEmbedding - (MIT license)
+## Leaderboards
+- [MTEB Leaderboard](https://github.com/FlagOpen/FlagEmbedding/tree/master/C_MTEB#leaderboard)
+
+## Models
+- [FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) - ([MIT License](https://opensource.org/licenses/MIT))
